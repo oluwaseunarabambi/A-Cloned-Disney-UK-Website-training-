@@ -1,0 +1,44 @@
+/* shop.css */
+
+.bound  {
+    box-sizing: border-box;
+    text-align: center; /* Center the content horizontally */
+    font-size: 16px;
+    height: 323.731px;
+    padding-bottom:24px;
+    padding-left: 48px;
+    padding-right:48px;
+    padding-top: 12px;
+    position: relative;
+}
+
+h2{
+    text-align: center;
+}
+.shop-wrapper {
+    display: inline-block; /* Ensure the shop wrapper respects its content's width */
+    margin-top: 20px; /* Add some space between the h2 and shop-wrapper */
+}
+
+.wrapper-content {
+    
+    color: white;
+    margin-left: -450px;
+    
+    
+}
+.content-title{
+    margin-right: 680px;
+    height: 155.481px;
+    width: 274.319px;
+    line-height: 19.2px;
+}
+.shop-wrapper span {
+    display: block; /* Make the span elements block-level for stacking */
+    margin-top: 10px; /* Add some space between each span */
+}
+
+.shop-wrapper img {
+    color: black;
+    margin: 0 auto; /* Center the image horizontally */
+}

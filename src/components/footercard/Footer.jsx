@@ -26,7 +26,7 @@ const Footer = ()=>{
             </div>
             
 
-            <img src={disneylogo} alt="disney-logo" />
+            <img src={disneylogo} alt="disney-logo" width="85px" height="36px"/>
 
             <ul className='links-list'>
                 <li><span>Help</span></li>   

@@ -11,7 +11,7 @@ const Nav = () => {
                 <img src={disneylogo} alt="disney-logo" />
                 <nav className="nav-links">
                     <ul id='list'>
-                        <li><Link to="/disneyplus">DISNEY+</Link></li>
+                        <li><Link to="/">DISNEY+</Link></li>
                         <li><Link to="/shop">SHOP</Link></li>
                         <li><Link to="/movies">MOVIES</Link></li>
                         <li><Link to="/shows">SHOWS</Link></li>

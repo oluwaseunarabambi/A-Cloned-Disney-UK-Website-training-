@@ -1,0 +1,21 @@
+.movies-list {
+    text-align: center;
+}
+
+.movies-list h1{
+    margin-bottom: 20px;
+}
+
+.movies{
+    display: inline-block;
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+}
+
+.movies img {
+    max-width: 100% ;
+    height: auto;
+}
+
+
